@@ -1,3 +1,0 @@
-# Telco Project 
-
-## resources
